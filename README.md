@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Java,Python,Javascripst,HTML and CSS
 - 🌱 I’m currently learning ...Java and Python
 - 💞️ I’m looking to collaborate on ...Programming
-- 📫 How to reach me ...techashahil2@gmail.com
+- 📫 How to reach me ...techshahil2@gmail.com
 
 <!---
 Shahil69/Shahil69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
